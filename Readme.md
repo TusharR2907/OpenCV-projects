@@ -1,4 +1,4 @@
-# OpenCV Projects
+# OpenCV Project 1
 
 Computer Vision projects built with Python and OpenCV as part of my Robotics Engineering journey.
 
