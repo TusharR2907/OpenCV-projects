@@ -11,5 +11,4 @@ Computer Vision projects built with Python and OpenCV as part of my Robotics Eng
 
 **Tech:** Python, OpenCV, NumPy
 
-## Goal
-Learning Computer Vision → ROS2 → Robotics job in Germany 🇩🇪
+
